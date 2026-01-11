@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\level2_2sclvlmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\level2_2sclvlmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\level1_3sclvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\level1_3sclvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\screenfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\screenfader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\player_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\level1_2sclvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\level1_2sclvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\level1_1sclvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\level1_1sclvl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\level1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\profilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\profilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\levelselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\levelselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\savegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\aquamanevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\aquamanevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\batarangprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\batarangprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\trashman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\trashman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\baseprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\baseprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\costumeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\costumeresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\systems\\level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\systems\\level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|c:\\users\\ulasa\\downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\scripts\\pointsgoldtrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA980CF4-C1D2-42A1-9B44-BEE738813EFE}|Ku\u00E7uk Kahraman Buyuk Dunya.csproj|solutionrelative:scripts\\pointsgoldtrash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level2_2SclvlMain.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level2_2SclvlMain.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\Level2_2SclvlMain.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level2_2SclvlMain.cs",
+              "RelativeToolTip": "Scripts\\Systems\\Level2_2SclvlMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:26:12.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScreenFader.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\ScreenFader.cs",
+              "RelativeDocumentMoniker": "Scripts\\ScreenFader.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\ScreenFader.cs",
+              "RelativeToolTip": "Scripts\\ScreenFader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:49:05.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KillZone.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\KillZone.cs",
+              "RelativeDocumentMoniker": "Scripts\\KillZone.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\KillZone.cs",
+              "RelativeToolTip": "Scripts\\KillZone.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwHIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T13:48:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Background.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Background.cs",
+              "RelativeDocumentMoniker": "Scripts\\Background.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Background.cs",
+              "RelativeToolTip": "Scripts\\Background.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:56:46.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NPCSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\NPCSpawner.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\NPCSpawner.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\NPCSpawner.cs",
+              "RelativeToolTip": "Scripts\\Systems\\NPCSpawner.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAwJAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:52:09.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level1_3Sclvl.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level1_3Sclvl.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\Level1_3Sclvl.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level1_3Sclvl.cs",
+              "RelativeToolTip": "Scripts\\Systems\\Level1_3Sclvl.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:51:37.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Database.cs",
+              "RelativeDocumentMoniker": "Scripts\\Database.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Database.cs",
+              "RelativeToolTip": "Scripts\\Database.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T06:53:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Level1_2Sclvl.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level1_2Sclvl.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\Level1_2Sclvl.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level1_2Sclvl.cs",
+              "RelativeToolTip": "Scripts\\Systems\\Level1_2Sclvl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:50:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player_controller.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Player_controller.cs",
+              "RelativeDocumentMoniker": "Scripts\\Player_controller.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Player_controller.cs",
+              "RelativeToolTip": "Scripts\\Player_controller.cs",
+              "ViewState": "AgIAACgKAAAAAAAAAAAlwDMKAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T21:19:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "level1_1Sclvl.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\level1_1Sclvl.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\level1_1Sclvl.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\level1_1Sclvl.cs",
+              "RelativeToolTip": "Scripts\\Systems\\level1_1Sclvl.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:45:25.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Level1.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Level1.cs",
+              "RelativeDocumentMoniker": "Scripts\\Level1.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Level1.cs",
+              "RelativeToolTip": "Scripts\\Level1.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAqwHsBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:35:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AquamanEvent.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\AquamanEvent.cs",
+              "RelativeDocumentMoniker": "Scripts\\AquamanEvent.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\AquamanEvent.cs",
+              "RelativeToolTip": "Scripts\\AquamanEvent.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAswI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T20:50:10.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BatarangProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\BatarangProjectile.cs",
+              "RelativeDocumentMoniker": "Scripts\\BatarangProjectile.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\BatarangProjectile.cs",
+              "RelativeToolTip": "Scripts\\BatarangProjectile.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T17:47:03.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\BaseProjectile.cs",
+              "RelativeDocumentMoniker": "Scripts\\BaseProjectile.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\BaseProjectile.cs",
+              "RelativeToolTip": "Scripts\\BaseProjectile.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T17:33:11.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TrashMan.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\TrashMan.cs",
+              "RelativeDocumentMoniker": "Scripts\\TrashMan.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\TrashMan.cs",
+              "RelativeToolTip": "Scripts\\TrashMan.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAQwFABAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T17:31:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CostumeResource.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\CostumeResource.cs",
+              "RelativeDocumentMoniker": "Scripts\\CostumeResource.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\CostumeResource.cs",
+              "RelativeToolTip": "Scripts\\CostumeResource.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:50:50.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\UserProfile.cs",
+              "RelativeToolTip": "Scripts\\Systems\\UserProfile.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAkwEgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T16:26:12.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Drone.cs",
+              "RelativeDocumentMoniker": "Scripts\\Drone.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Drone.cs",
+              "RelativeToolTip": "Scripts\\Drone.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAmwLAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T21:45:08.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileManager.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\ProfileManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\ProfileManager.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\ProfileManager.cs",
+              "RelativeToolTip": "Scripts\\Systems\\ProfileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:21:45.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaveGame.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\SaveGame.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\SaveGame.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\SaveGame.cs",
+              "RelativeToolTip": "Scripts\\Systems\\SaveGame.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAADwv7wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:34:23.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PointsGoldTrash.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\PointsGoldTrash.cs",
+              "RelativeDocumentMoniker": "Scripts\\PointsGoldTrash.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\PointsGoldTrash.cs",
+              "RelativeToolTip": "Scripts\\PointsGoldTrash.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAADwv7cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:06:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LevelSelect.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\LevelSelect.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\LevelSelect.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\LevelSelect.cs",
+              "RelativeToolTip": "Scripts\\Systems\\LevelSelect.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAuwK4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:29:31.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Level2.cs",
+              "DocumentMoniker": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level2.cs",
+              "RelativeDocumentMoniker": "Scripts\\Systems\\Level2.cs",
+              "ToolTip": "C:\\Users\\ulasa\\Downloads\\241613023_real\\ku\u00E7uk-kahraman-buyuk-dunya-2025-12-24-16-29-35\\Scripts\\Systems\\Level2.cs",
+              "RelativeToolTip": "Scripts\\Systems\\Level2.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAwwEYBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:35:49.748Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

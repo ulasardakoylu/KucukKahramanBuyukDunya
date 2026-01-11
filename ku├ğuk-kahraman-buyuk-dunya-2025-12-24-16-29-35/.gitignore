@@ -1,0 +1,24 @@
+# Godot 3 and 4
+.import/
+export.cfg
+export_presets.cfg
+
+# Godot 4+
+.godot/
+
+# Mono / C# (if you used C#)
+.mono/
+data_*/
+
+# Builds / exports
+export/
+build/
+bin/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
